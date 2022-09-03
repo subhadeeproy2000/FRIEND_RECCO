@@ -1,6 +1,6 @@
 # FRIEND_RECCO
 
-From the input data we first make a directed graph.Then based on that directed graph we want to predict whether there is a missing link between two id's or not.We first calculate some features from the directed graph.
+From the input data we first make a directed graph.Then based on that directed graph we want to predict whether there is a missing link between two id's or not.We first calculate some features from the directed graph. <br />
 Features are given below-
 Jaccard Distance, Cosine Distance, Page Ranking, Shortest Path, ADAR index ,Katz Score,whether follow back and some SVD features of adjoint matrix and some weight features.
 Now we have two option to check -
